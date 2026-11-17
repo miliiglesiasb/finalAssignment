@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BKF Chair",
+    "designer": "Antonio Bonet, Juan Kurchan, Jorge Ferrari Hardoy",
+    "year": 1938,
+    "material": "Iron and leather",
+    "description": "Also known as the Butterfly chair, it is the most internationally recognized piece of Argentine design.",
+    "image": "img/bkf.jpg"
+  },
+  {
+    "name": "W Chair",
+    "designer": "César Jannello",
+    "year": 1944,
+    "material": "Steel and laminated wood",
+    "description": "First made for the construction site of the House over the Stream in Mar del Plata. Its curved frame relies on the elasticity of steel.",
+    "image": "img/w.jpg"
+  },
+  {
+    "name": "Madrid Chair",
+    "designer": "Horacio Baliero, Justo Solsona",
+    "year": 1967,
+    "material": "Leather and chrome",
+    "description": "A lounge chair designed by two architects and exhibited at the Museum of Architecture and Design of Buenos Aires.",
+    "image": "img/madrid.jpg"
+  },
+  {
+    "name": "Stilka Armchair",
+    "designer": "Ricardo Blanco",
+    "year": 1969,
+    "material": "Wood, formica and velvet",
+    "description": "Designed for Stilka, one of the key Argentine furniture companies of the period.",
+    "image": "img/stilka.png"
+  },
+  {
+    "name": "LP Chair",
+    "designer": "Ricardo Blanco",
+    "year": 1970,
+    "material": "Wood and leather",
+    "description": "A stackable chair from the early career of one of the main figures of Argentine industrial design.",
+    "image": "img/lp.jpg"
+  },
+  {
+    "name": "Dining Chair",
+    "designer": "Alberto Churba",
+    "year": 1970,
+    "material": "Wood and leather",
+    "description": "A dining chair by Churba, whose company also brought international designers to Argentina.",
+    "image": "img/churba.jpg"
+  }
+]

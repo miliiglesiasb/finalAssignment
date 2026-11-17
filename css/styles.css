@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@100..900&family=Inter:wght@100..900&display=swap");
+
+:root {
+  --black: #111111;
+  --red: #c8102e;
+  --gray: #f1f1f1;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: var(--black);
+}
+
+h1, h2, h3, .navbar-brand {
+  font-family: "Archivo", sans-serif;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--red);
+}
+
+.text-danger {
+  color: var(--red) !important;
+}
+
+.btn-dark {
+  border-radius: 0;
+}
+
+.card {
+  border-radius: 0;
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+  width: 100%;
+  height: 380px;
+  background-color: var(--gray);
+  border-radius: 0;
+}
